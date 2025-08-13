@@ -1,0 +1,5 @@
+conditional statements
+syntax
+if: akan tereksekusi jika kondisinya benar
+elif: menambahkan kondisional selain if
+else: akan tereksekusi jika pengecekan if tidak benar
