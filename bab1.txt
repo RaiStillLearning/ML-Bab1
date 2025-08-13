@@ -1,0 +1,5 @@
+pengenalan pada basic python dalam bab ini menyangkut syntax, variables dan tipe data
+1. basic sintax
+2. variables
+3. tipe data (integers, floats, strings, lists, tuples, dictionaries, booleans)
+
