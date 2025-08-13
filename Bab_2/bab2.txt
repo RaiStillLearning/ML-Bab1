@@ -3,3 +3,11 @@ syntax
 if: akan tereksekusi jika kondisinya benar
 elif: menambahkan kondisional selain if
 else: akan tereksekusi jika pengecekan if tidak benar
+
+
+
+loops
+for Loop 
+while loop
+break
+continue
